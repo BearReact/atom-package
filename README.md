@@ -28,7 +28,7 @@ A package to display colors in project and files
 
 
 
-## File-icons
+### File-icons
 link : https://atom.io/packages/file-icons
 
 Assign file extension icons and colours for improved visual grepping
